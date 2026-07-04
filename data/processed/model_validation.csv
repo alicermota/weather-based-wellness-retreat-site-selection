@@ -1,0 +1,5 @@
+model,validation,roc_auc,accuracy,f1,precision,recall,mcc
+Logistic Regression,10-fold stratified CV,0.865,0.766,0.614,0.467,0.899,0.522
+Decision Tree,10-fold stratified CV,0.861,0.766,0.616,0.467,0.907,0.526
+Random Forest,10-fold stratified CV,0.9,0.781,0.634,0.485,0.916,0.549
+Naive Bayes,10-fold stratified CV,0.811,0.729,0.586,0.429,0.925,0.492

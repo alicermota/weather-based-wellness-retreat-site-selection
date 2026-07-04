@@ -1,0 +1,3 @@
+city,zone,avg_suitable_days_per_year,avg_suitability_rate,avg_rain_days_per_year,avg_hot_days_per_year,avg_freezing_days_per_year,avg_windy_days_per_year,min_suitable_days,max_suitable_days
+Guarda,GUARDA,77.9,21.3,102.8,19.9,38.6,150.6,67,96
+Vila Real,VILA_REAL,76.0,20.8,124.8,33.8,8.0,153.2,57,98
