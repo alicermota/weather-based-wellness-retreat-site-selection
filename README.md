@@ -1,7 +1,5 @@
 # Weather-Based Site Selection for a Mountain Wellness Retreat
 
-## Recruiter Summary
-
 University group analytics project comparing Guarda and Vila Real as locations for an outdoor wellness retreat. The project combines weather data cleaning, feature engineering, exploratory analysis, statistical validation, modelling, visualization, a written business recommendation, and a Streamlit dashboard.
 
 ## Technical Summary
@@ -19,7 +17,7 @@ This was a university group project. The repository preserves original group wor
 ## My Contribution
 
 - Built the Orange Data Mining classification workflow stored as `project_work/Group06_Milestone3/Alice Mota Orange File.ows`.
-- TODO: confirm any additional contribution details, such as report sections, data cleaning tasks, dashboard work, or presentation responsibilities.
+- Additional contributions, such as report sections, data cleaning tasks, dashboard work, or presentation responsibilities.
 
 ## Project Summary
 
