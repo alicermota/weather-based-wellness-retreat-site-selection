@@ -1,0 +1,9 @@
+.DS_Store
+.matplotlib-cache/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+.streamlit/secrets.toml
